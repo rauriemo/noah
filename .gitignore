@@ -1,0 +1,9 @@
+workspaces/
+.env
+__pycache__/
+.venv/
+*.log
+.claude/
+.cursor/
+.pytest_cache/
+settings.json
