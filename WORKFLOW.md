@@ -1,7 +1,7 @@
 ---
 tracker:
   kind: github
-  repo: "rauriemo/logistics-agent"
+  repo: "rauriemo/noah"
   labels:
     active: ["todo", "in-progress"]
     terminal: ["done", "canceled"]
