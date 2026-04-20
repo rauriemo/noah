@@ -15,9 +15,6 @@ workspace:
 hooks: {}
 
 channels:
-  - kind: dispatch
-    target: "localhost:8086"
-    events: [task.completed, task.failed]
   - kind: prism
     target: "localhost:3107"
     events: [task.completed, task.failed]
